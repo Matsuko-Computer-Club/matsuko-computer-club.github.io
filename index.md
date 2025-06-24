@@ -2,7 +2,7 @@
 ---
 # 千葉県立松戸高等学校 コンピューター部
 
-### ― 2025、26年 広報用コンピューター部GitHub Org 紹介ページ！ ―
+### ― 2025、26年 広報用コンピューター部GitHub Pages版 紹介ページ！ ―
 
 > 広報部では、松高コン部の魅力や関心を少しでも持っていただけるような広報を目指して活動しています！
 
@@ -70,6 +70,7 @@
 活動の様子は、以下で随時発信中です：
 
 * 📌 [千葉県立松戸高等学校 公式ホームページ](https://cms1.chiba-c.ed.jp/matsudo-h/)
-* 📌 [松高コン部 サイト](https://www.matsudo-h.com/club/computer)
+* 📌 [松高コン部 公式サイト](https://www.matsudo-h.com/club/computer)
+* 📌 [松高コン部公式GitHub Orgページ](https://github.com/Matsuko-Computer-Club)
 
 > ぜひチェックしてみてください
