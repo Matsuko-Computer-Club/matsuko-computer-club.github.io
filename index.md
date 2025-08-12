@@ -71,6 +71,8 @@
 
 * 📌 [千葉県立松戸高等学校 公式ホームページ](https://cms1.chiba-c.ed.jp/matsudo-h/)
 * 📌 [松高コン部 公式サイト](https://www.matsudo-h.com/club/computer)
+* 📌 [松高コン部広報部公式サイト](https://mtdc.pages.dev)
+* 📌 [千葉県立松戸高等学校 コンピューター部プロダクトナレッジ](https://mtdhscomputer.miraheze.org/wiki/%E3%83%A1%E3%82%A4%E3%83%B3%E3%83%9A%E3%83%BC%E3%82%B8)
 * 📌 [松高コン部公式GitHub Orgページ](https://github.com/Matsuko-Computer-Club)
 
 > ぜひチェックしてみてください
