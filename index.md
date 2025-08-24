@@ -64,12 +64,6 @@ ICT活用やメディアを活用した創作活動に力を入れています�
 
 ぜひチェックしてみてください。
 -------------------
-<script type="text/javascript"> //<![CDATA[
-  var tlJsHost = ((window.location.protocol == "https:") ? "https://secure.trust-provider.com/" : "http://www.trustlogo.com/");
-  document.write(unescape("%3Cscript src='" + tlJsHost + "trustlogo/javascript/trustlogo.js' type='text/javascript'%3E%3C/script%3E"));
-//]]></script>
-<script language="JavaScript" type="text/javascript">
-  TrustLogo("https://www.sectigo.com/images/seals/sectigo_trust_seal_md_2x.png", "SECDV", "none");
-</script>
+
  Copyright (c) 2025 Public Relations Department, Chiba Prefectural Matsudo High School Computer Club All Rights Reserved
 
